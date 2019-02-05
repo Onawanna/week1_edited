@@ -1,0 +1,15 @@
+.current {text-decoration: uppercase}
+
+header{background-color: #EDF7F5;}
+
+body{
+    background-color:#EDF7F5;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color:#bEDF7F5;
+	color: #204E5F;
+}
+a {color: #204E5F}
